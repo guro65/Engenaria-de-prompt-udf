@@ -31,21 +31,6 @@ O protótipo pode ser acessado pelo link abaixo:
 
 ---
 
-# Prints do Projeto
-
-### Página Inicial
-![Página Inicial](docs/tela_inicial.png)
-
-### Catálogo de Jogos
-![Catálogo](docs/catalogo_jogos.png)
-
-### Cadastro de Jogos
-![Cadastro](docs/cadastro_jogo.png)
-
-### Banco de Dados
-![Banco de Dados](docs/banco_de_dados.png)
-
----
 
 # Plataforma Utilizada
 
