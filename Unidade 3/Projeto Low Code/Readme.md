@@ -31,6 +31,14 @@ O protótipo pode ser acessado pelo link abaixo:
 
 ---
 
+# Prints
+<img width="1346" height="596" alt="image" src="https://github.com/user-attachments/assets/ab5def3e-2115-4bac-b2fb-1fa2ffbd7ac9" />
+<img width="836" height="578" alt="image" src="https://github.com/user-attachments/assets/0f4271e6-70a2-42f6-b79c-aeb516f3a44e" />
+<img width="554" height="562" alt="image" src="https://github.com/user-attachments/assets/daec63f2-100c-4e91-bbce-9472e4ade8f2" />
+<img width="1338" height="586" alt="image" src="https://github.com/user-attachments/assets/50681ddb-b68d-40f8-b100-988cd8e4ef7e" />
+
+
+
 
 # Plataforma Utilizada
 
