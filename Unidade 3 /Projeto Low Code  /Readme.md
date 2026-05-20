@@ -146,6 +146,9 @@ Mesmo com essas limitações, a experiência foi positiva e demonstrou como ferr
 
 # Colaboração
 
+- [Gustavo Batista de Araujo Martins ribeiro](https://github.com/guro65)
+- [Henrique Bezerra](https://github.com/Edykiran)
+
 As atividades foram divididas entre os integrantes da dupla de forma organizada.
 
 As responsabilidades envolveram:
